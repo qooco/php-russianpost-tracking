@@ -4,6 +4,7 @@
     "type": "library",
     "keywords": ["library","russian","post","pochta","tracking","php"],
     "license": "BSD-3-Clause",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Vasilij Belosludcev",
@@ -12,7 +13,8 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "ext-soap": "*"
+        "ext-soap": "*",
+        "bupy7/xml-constructor": "~1.2.0"
     },
     "autoload": {
         "psr-4": {
