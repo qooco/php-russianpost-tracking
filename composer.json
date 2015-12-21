@@ -1,6 +1,6 @@
 {
-    "name": "bupy7/russianpost-tracking",
-    "description": "Library of tracking mailing via API Russian Post.",
+    "name": "bupy7/php-russianpost-tracking",
+    "description": "PHP library of tracking mailing via API Russian Post.",
     "type": "library",
     "keywords": ["library","russian","post","pochta","tracking","php"],
     "license": "BSD-3-Clause",
