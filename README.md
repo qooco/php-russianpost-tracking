@@ -1,5 +1,11 @@
 php-russianpost-tracking
 ====================
+
+[![Latest Stable Version](https://poser.pugx.org/bupy7/php-russianpost-tracking/v/stable)](https://packagist.org/packages/bupy7/php-russianpost-tracking)
+[![Total Downloads](https://poser.pugx.org/bupy7/php-russianpost-tracking/downloads)](https://packagist.org/packages/bupy7/php-russianpost-tracking)
+[![Latest Unstable Version](https://poser.pugx.org/bupy7/php-russianpost-tracking/v/unstable)](https://packagist.org/packages/bupy7/php-russianpost-tracking)
+[![License](https://poser.pugx.org/bupy7/php-russianpost-tracking/license)](https://packagist.org/packages/bupy7/php-russianpost-tracking)
+
 PHP library of tracking mailing via API Russian Post.
 
 Installation
