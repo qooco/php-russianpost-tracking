@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist bupy7/russianpost-tracking "*"
+php composer.phar require --prefer-dist bupy7/php-russianpost-tracking "*"
 ```
 
 or add
 
 ```
-"bupy7/russianpost-tracking": "*"
+"bupy7/php-russianpost-tracking": "*"
 ```
 
 to the require section of your `composer.json` file.
