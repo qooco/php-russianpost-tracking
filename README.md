@@ -1,6 +1,6 @@
-russianpost-tracking
+php-russianpost-tracking
 ====================
-Library of tracking mailing via API Russian Post.
+PHP library of tracking mailing via API Russian Post.
 
 Installation
 ------------
