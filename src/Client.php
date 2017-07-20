@@ -7,6 +7,7 @@ use \SoapFault;
 use \SoapParam;
 use \Psr\Log\LoggerInterface;
 use \Psr\Log\LoggerAwareInterface;
+
 class Client implements LoggerAwareInterface
 {
     /**
@@ -152,5 +153,9 @@ class Client implements LoggerAwareInterface
 
     public static function parseOperationHistory($data) {
         return json_decode(json_encode($data), 'assoc');
+    }
+        
+    public function getErrorMessage() {
+        return $this->errorMessage;   
     }
 }
